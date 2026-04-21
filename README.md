@@ -1,4 +1,6 @@
 Fake Job Posting Detection using Machine Learning
+
+
  Project Overview
 Fake job advertisements have become a major issue across online hiring platforms. Many fraudulent recruiters post fake opportunities to collect personal information, charge money, or scam job seekers. This project focuses on building a Machine Learning based classification system that can automatically detect whether a job posting is Real or Fake. The solution uses real-world job posting data and applies preprocessing, feature engineering, exploratory data analysis, and multiple classification models. This project demonstrates practical machine learning skills and solves a socially relevant fraud detection problem.
  Problem Statement
